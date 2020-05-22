@@ -7,5 +7,6 @@ require (
 	github.com/graphql-go/graphql v0.7.9
 	github.com/graphql-go/handler v0.2.3
 	github.com/jinzhu/gorm v1.9.12
+	github.com/mitchellh/mapstructure v1.3.1
 	gopkg.in/yaml.v2 v2.3.0
 )
