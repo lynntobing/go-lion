@@ -29,6 +29,7 @@ func init() {
 	}
 
 	db.SingularTable(true)
+	migration(db)
 
 }
 
