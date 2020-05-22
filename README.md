@@ -1,2 +1,3 @@
 # go-lion
-采用到的技术和框架有golang、go-gin、gorm、graphql
+## go-lion是一个样板项目
+### 主要采用golang语言开发，使用go-gin与graphql的集成
